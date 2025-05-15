@@ -1,4 +1,4 @@
-README — Power and Password Tools
+Power and Password Tools
 Репозиторий содержит два полезных Python-скрипта для автоматизации задач в Windows:
 
 1. Перевод компьютера в спящий режим
