@@ -25,6 +25,6 @@ python password_generator.py
 
 Автор
 Anton G. (MrAG55)
-💬 Telegram:
+Telegram:
 [@pugmr]
 (https://t.me/pugmr)
